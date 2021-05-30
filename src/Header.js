@@ -50,7 +50,7 @@ const Header = () => {
                 onClick={fetchMoreData}
                 onDoubleClick={() => setPageno(1)}
               >
-                Fetch Data
+                Get Users
               </a>
             </li>
           </ul>
@@ -63,7 +63,7 @@ const Header = () => {
               onClick={fetchMoreData}
               onDoubleClick={() => setPageno(1)}
             >
-              Fetch Data
+              Get Users
             </a>
           </li>
         </ul>
